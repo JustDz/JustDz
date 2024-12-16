@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on 3D Unity Game Project <br>👯 I’m looking to collaborate on Game Project<br>🤝 I’m looking for help with Unity<br>🌱 I’m currently learning React<br>💬 Ask me about Game Developing and AI<br>⚡ Fun fact: I’m passionate about integrating AI into immersive gaming experiences
+🔭 I’m currently working on 3D Unity Game Project <br>👯 I’m looking to collaborate on Game Project<br>🤝 I’m looking for help with Unity<br>🌱 I’m currently learning Unity 3D and React<br>
 
 
 ## 🌐 Socials:
